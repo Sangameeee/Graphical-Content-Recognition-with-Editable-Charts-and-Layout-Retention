@@ -1,5 +1,12 @@
 # Graphical Content Recognition with Editable Charts and Layout Retention
+## Table of Contents
 
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usaeg](#usage)
+- [Results](#results)
+  
 ## Overview
 
 This project aims to convert static graphical documents into editable formats such as SVG and DOCX while preserving their original layout and structure. It detects and processes various elements like text, tables, bar graphs, and pie charts using machine learning models. The extracted elements remain editable and retain the original page dimensions.
@@ -49,16 +56,15 @@ This project aims to convert static graphical documents into editable formats su
 
 ## Results
 
-### Initial Image Classification<br>
-
-### Bar Graph
-
-### Pie Chart 
-
+### 1. Initial Image Classification<br>
+![Mobile Screenshot](https://github.com/Sangameeee/Graphical-Content-Recognition-with-Editable-Charts-and-Layout-Retention/blob/main/images/intial%20image.png?raw=true)
+### 2. Bar Graph
+![Mobile Screenshot](https://github.com/Sangameeee/Graphical-Content-Recognition-with-Editable-Charts-and-Layout-Retention/blob/main/images/bar_graph.png?raw=true)
+### 3. Pie Chart 
+![Mobile Screenshot](https://github.com/Sangameeee/Graphical-Content-Recognition-with-Editable-Charts-and-Layout-Retention/blob/main/images/pie_chart.png?raw=true)
 ### Table 
-
-### Classification Loss 
-
-### Final Output PDF
-    
-
+![Mobile Screenshot](https://github.com/Sangameeee/Graphical-Content-Recognition-with-Editable-Charts-and-Layout-Retention/blob/main/images/table_image.png?raw=true)
+### 4. Classification Loss 
+![Mobile Screenshot](https://github.com/Sangameeee/Graphical-Content-Recognition-with-Editable-Charts-and-Layout-Retention/blob/main/images/classi_loss.png?raw=true)
+### 5. Final Output PDF
+![Mobile Screenshot](https://github.com/Sangameeee/Graphical-Content-Recognition-with-Editable-Charts-and-Layout-Retention/blob/main/images/final_image.png?raw=true)
