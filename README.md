@@ -4,7 +4,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usaeg](#usage)
+- [Usage](#usage)
 - [Results](#results)
   
 ## Overview
