@@ -32,7 +32,7 @@ This project aims to convert static graphical documents into editable formats su
     
 -   **PaddleOCR**: Text detection and recognition.
     
--   **TensorFlow**: Model optimization and preprocessing.
+-   **PyTorch**: Model optimization and preprocessing.
     
 -   **OpenCV**: Image preprocessing and feature extraction.
     
